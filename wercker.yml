@@ -29,7 +29,7 @@ deploy-accs:
 restart-occs:
   steps:
     #Manager Oracle Container Services
-    - ashutrip/oracle-occs-container-util:
+    - peternagy/oracle-occs-container-util:
       occs_user:  $OCCS_USER
       occs_password:  $OCCS_PASSWORD
       rest_server_url:  $REST_SERVER_URL
