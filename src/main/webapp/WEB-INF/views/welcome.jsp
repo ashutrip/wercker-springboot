@@ -36,7 +36,7 @@
 
       <div class="blueBannerHeading">
         <h1 class="blueBannerTitleWithSubtitle">
-          <a style="color: #ffffff">OCCS ADP 5000 Containers Demo + Wercker AutoDeploy</a>
+          <a style="color: #ffffff">OCCS Pfizer Containers Demo + Wercker AutoDeploy</a>
         </h1>
       </div>
 
